@@ -1,0 +1,50 @@
+body{
+    background-image: linear-gradient(to right,#e579f3,#FF70AB,#e280a9,#ce5cdd);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial,  sans-serif;
+}
+
+.main{
+    text-align: center;
+    background-color: rgb(245, 245, 245);
+    padding: 50px;
+    border-radius: 40px;
+    box-shadow: 0 0 100px rgb(77, 2, 80, 50);
+    filter: url(#glow);
+    
+
+}
+
+
+.info{
+    margin-top: -20px;
+}
+
+.text{
+  font-size: 20px;
+  margin-bottom: 45px;
+  
+}
+.img{
+    width: 150px;
+    height: 160px;
+    border-radius: 50%;
+    box-shadow: 0 0 20px rgb(77, 2, 80, 50);
+    margin-top: -10px;
+
+}
+
+.for{
+    width: 30px;
+}
+.foor{
+    width: 35px;
+}
+.stop{
+margin-top: 30px;
+
+}
